@@ -1,0 +1,2 @@
+Python developer with experience in FastAPI, machine learning, and NLP.
+Built AI chatbot, recommendation system, and OCR-based applications.

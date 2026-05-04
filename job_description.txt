@@ -1,0 +1,2 @@
+Looking for Python developer with FastAPI, NLP, and machine learning skills.
+Experience in building scalable AI systems preferred.
